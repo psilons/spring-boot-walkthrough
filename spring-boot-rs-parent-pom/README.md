@@ -1,5 +1,7 @@
 # Spring Boot Walk Through Using Spring Parent pom.xml 
 
+Check spring-boot-rs. This is more of a showcase. For normal usage, use spring-boot-rs.
+
 ## Run
 There are several ways to run:
 - Run within IntelliJ

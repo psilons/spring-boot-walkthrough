@@ -10,7 +10,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan({ "org.mytest.helloworld.resp"})
+@ComponentScan({ "org.mytest.helloworld.resp"}) // to load beans only from this dir.
 class LocalScan {
 }
 
