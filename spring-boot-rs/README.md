@@ -12,3 +12,4 @@ spring-boot:run.
 References:
 - https://www.baeldung.com/spring-boot-dependency-management-custom-parent
 - https://javadeveloperzone.com/spring-boot/spring-boot-without-parent-pom/
+- https://www.baeldung.com/spring-boot-start
